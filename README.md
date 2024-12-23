@@ -3,7 +3,7 @@
 
 - 🔭  I’m currently working with **React.js and JavaScript.**
 
-- 🌱 I’m currently learning **React.js** at [Patika.dev Frontend Web Developer Bootcamp](https://www.patika.dev/patikaplus/patika-front-end-bootcamp?utm_source=site&utm_campaign=patikaplus_home_fr)
+- 🌱 I’m currently learning **Next.js** and **TypeScript**
 
 - 📝 I regularly write articles and showing UI works on my personal website [https://ozguruix.framer.website](https://ozguruix.framer.website)
 
